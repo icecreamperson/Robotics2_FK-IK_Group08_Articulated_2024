@@ -1,5 +1,7 @@
 disp('Articulated')
 
+syms a1 a2 a3
+
 a1 = 5;
 a2 = 7;
 a3 = 4;
