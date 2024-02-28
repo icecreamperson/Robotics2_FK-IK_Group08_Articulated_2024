@@ -1,5 +1,5 @@
 # Robotics2_FK-IK_Group08_Articulated_2024
-This repository is dedicated to Group 8, Robotics 02
+This repository is dedicated for *Robotics 2* by Group 8
 
 *INVERSE KINEMATICS*
 
