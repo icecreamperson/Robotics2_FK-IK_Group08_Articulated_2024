@@ -10,7 +10,7 @@ ye = float(input("Y = "))
 ze = float(input("Z = "))
 
 if xe == 0:
-    Th1 = np.pi/2 * 180/np.pi if ye > 0 else -np.pi/2
+    Th1 = (np.pi/2) * 180/np.pi if ye > 0 else -np.pi/2
 else:
     Th1 = np.arctan(ye/xe) * 180/np.pi #1
 
