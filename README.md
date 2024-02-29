@@ -13,7 +13,7 @@ This represents the *Top View* and *Front View* of Articulated Manipulator
 
 *Project Leader*:
 
-Adoptante, Caine Jeneah U. (sopkeyn)
+Adoptante, Caine Jeneah U. ([sopkeyn](https://github.com/sopkeyn))
 
 *Project Supervisor*:
 
