@@ -21,7 +21,7 @@ Dimaano, Kian Michael G. ([KMTechies](https://github.com/KMTechies))
 
 *Project Quality*:
 
-Echaluce, Emanuel B. (Emanskiee)
+Echaluce, Emanuel B. ([Emanskiee](https://github.com/Emanskiee))
 
 *Programmer*:
 
