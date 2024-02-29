@@ -25,4 +25,4 @@ Echaluce, Emanuel B. ([Emanskiee](https://github.com/Emanskiee))
 
 *Programmer*:
 
-Abeleda, Dannielle Louis F. (icecreamperson)
+Abeleda, Dannielle Louis F. ([icecreamperson](https://github.com/icecreamperson))
