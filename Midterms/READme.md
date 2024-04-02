@@ -1,4 +1,3 @@
-![Screenshot 2024-04-02 195259](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/871f862b-738e-468e-a371-9cd532065451)
 
 ![1](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/f9601f29-9340-4d25-845e-4853257ebfad)
 
