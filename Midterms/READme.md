@@ -35,18 +35,20 @@
 												
 B. Codes of the GUI.													
 												
-## I. Abstract of the Project		
+## I. ABSTRACT OF THE PROJECT
 ![9](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/91171d92-ecea-4506-a5f4-b947260d5e35)
 
-## II. Introduction of the Project	
+## II. INTRODUCTION OF THE PROJECT	
 ![10](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/35ea723d-ddcb-4a21-abd9-e17e63ef9606)
 
-## III. Degrees of Freedom of (assigned mechanical manipulator) description and computation.												
-## IV. Kinematic Diagram and D-H Frame assignment of (assigned mechanical manipulator) description and computation.												
-## V. D-H Parametric Table of (assigned mechanical manipulator) description and computation.												
-## VI. HTM of (assigned mechanical manipulator) description and computation.												
-## VII. Inverse Kinematics of (assigned mechanical manipulator) description and computation.												
-## VIII. Forward and Inverse Kinematics GUI calculator of (assigned mechanical manipulator) description and computation.												
-		IX. References												
+## III. DEGREES OF FREEDOM OF ARTICULATED MANIPULATOR DESCRIPTION AND COMPUTATION											
+## IV. KINEMATIC AND D-H FRAME ASSIGNMENT OF ARTICULATED MANIPULATOR DESCRIPTION AND COMPUTATION											
+## V. D-H PARAMETRIC TABLE OF ARTICULATED MANIPULATOR DESCRIPTION AND COMPUTATION
+
+## VI. HOMOGENEOUS TRANSFORMATION MATRIX (HTM) OF ARTICULATED MANPULATOR DESCRIPTION AND COMPUTATION 												
+## VII. INVERSE KINEMATICS OF ARTICULAATED MANIPULATOR DESCRIPTION AND COMPUTATION 												
+## VIII. FORWARD AND INVERSE KINEMATICS GUI CALCULATOR OF ARTICULATED MANIPULATOR DESCRIPTION AND COMPUTATION 
+
+## IX. REFERENCES												
 	D. Written computations of the portfolio on long bond paper. 													
 ![image](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/a132953b-4ef8-45a5-98cc-9dda4d246888)
