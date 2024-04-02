@@ -35,8 +35,11 @@
 												
 B. Codes of the GUI.													
 												
-## I. Abstract of the Project												
-## II. Introduction of the Project												
+## I. Abstract of the Project		
+![9](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/91171d92-ecea-4506-a5f4-b947260d5e35)
+
+## II. Introduction of the Project	
+
 ## III. Degrees of Freedom of (assigned mechanical manipulator) description and computation.												
 ## IV. Kinematic Diagram and D-H Frame assignment of (assigned mechanical manipulator) description and computation.												
 ## V. D-H Parametric Table of (assigned mechanical manipulator) description and computation.												
