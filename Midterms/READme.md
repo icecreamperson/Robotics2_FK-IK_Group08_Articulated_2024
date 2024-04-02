@@ -71,6 +71,5 @@
 ## IX. REFERENCES												
 ![12](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/9fa1e425-b89d-46b8-bfab-116a9f5da215)
 https://images.app.goo.gl/5dayrQQEUJ8dkd6m6
-https://www.google.com/search?q=articulated+manipulator+&sca_esv=2d4360a6340d5bc0&rlz=1C1KNTJ_enPH1090PH1091&udm=2&biw=1536&bih=730&ei=oSUMZreUEtS04-EPyLiliAU&ved=0ahUKEwj36MHJ7aOFAxVU2jgGHUhcCVEQ4dUDCBA&uact=5&oq=articulated+manipulator+&gs_lp=Egxnd3Mtd2l6LXNlcnAiGGFydGljdWxhdGVkIG1hbmlwdWxhdG9yIDIFEAAYgAQyBRAAGIAEMgQQABgeSKQXUPcPWPcPcAF4AJABAJgB0wGgAdMBqgEDMi0xuAEDyAEA-AEBmAICoALnAcICChAAGIAEGIoFGEPCAgYQABgHGB6YAwCIBgGSBwUxLjAuMaAH4QE&sclient=gws-wiz-serp#imgrc=dZeuwnTthLEqCM&imgdii=LAeIRw9GRmDsZM
 
 # WRITTEN COMPUTATIONS
