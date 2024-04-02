@@ -10,7 +10,7 @@ from PIL import Image, ImageTk
 
 gui =  Tk()
 gui.title("ARTICULATED Design Calculator")
-gui.resizable(True,True)
+gui.resizable(False,False)
 gui.config(bg="grey")
 
 image = PhotoImage(file="C:/Users/Dan/Documents/ArticulatedImage.png")
