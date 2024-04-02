@@ -2,8 +2,10 @@
 
 ![1](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/f9601f29-9340-4d25-845e-4853257ebfad)
 
+
 ![2](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/343a9985-41d5-4f1d-9b63-d897bc157a54)
-# A.
+
+
 ![3](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/bee97a23-9b91-4deb-b297-95bde5317030)
 
 
@@ -33,14 +35,14 @@
 												
 B. Codes of the GUI.													
 												
-		I. Abstract of the Project												
-		II. Introduction of the Project												
-		III. Degrees of Freedom of (assigned mechanical manipulator) description and computation.												
-		IV. Kinematic Diagram and D-H Frame assignment of (assigned mechanical manipulator) description and computation.												
-		V. D-H Parametric Table of (assigned mechanical manipulator) description and computation.												
-		VI. HTM of (assigned mechanical manipulator) description and computation.												
-		VII. Inverse Kinematics of (assigned mechanical manipulator) description and computation.												
-		VIII. Forward and Inverse Kinematics GUI calculator of (assigned mechanical manipulator) description and computation.												
+## I. Abstract of the Project												
+## II. Introduction of the Project												
+## III. Degrees of Freedom of (assigned mechanical manipulator) description and computation.												
+## IV. Kinematic Diagram and D-H Frame assignment of (assigned mechanical manipulator) description and computation.												
+## V. D-H Parametric Table of (assigned mechanical manipulator) description and computation.												
+## VI. HTM of (assigned mechanical manipulator) description and computation.												
+## VII. Inverse Kinematics of (assigned mechanical manipulator) description and computation.												
+## VIII. Forward and Inverse Kinematics GUI calculator of (assigned mechanical manipulator) description and computation.												
 		IX. References												
 	D. Written computations of the portfolio on long bond paper. 													
 ![image](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/a132953b-4ef8-45a5-98cc-9dda4d246888)
