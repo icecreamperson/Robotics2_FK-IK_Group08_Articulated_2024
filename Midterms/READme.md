@@ -53,5 +53,5 @@
 ## VIII. FORWARD AND INVERSE KINEMATICS GUI CALCULATOR OF ARTICULATED MANIPULATOR DESCRIPTION AND COMPUTATION 
 
 ## IX. REFERENCES												
-	D. Written computations of the portfolio on long bond paper. 													
-![image](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/a132953b-4ef8-45a5-98cc-9dda4d246888)
+
+# WRITTEN COMPUTATIONS
