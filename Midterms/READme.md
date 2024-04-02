@@ -43,6 +43,7 @@
 
 ## II. INTRODUCTION OF THE PROJECT	
 ![10](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/35ea723d-ddcb-4a21-abd9-e17e63ef9606)
+![1](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/1db9851a-6527-4004-b384-c029f8b00342)
 
 ## III. DEGREES OF FREEDOM OF ARTICULATED MANIPULATOR DESCRIPTION AND COMPUTATION
 ![2](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/742eaef0-7ddd-4e0e-bf1e-e84ba9866207)
