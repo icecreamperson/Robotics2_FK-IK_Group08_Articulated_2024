@@ -4,7 +4,7 @@
 ![2](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/343a9985-41d5-4f1d-9b63-d897bc157a54)
 
 ![3](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/bee97a23-9b91-4deb-b297-95bde5317030)
-
+A. 	
 ![4](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/6d558b9f-ee97-4c1d-b199-724d5ef12b76)
 https://drive.google.com/file/d/1pcPDunTcaHPL8EHjLOVDfUVcWlLeAxsG/view?usp=drive_link
 
@@ -23,3 +23,17 @@ https://drive.google.com/file/d/1GVMg8_DskSPzaUSE8biwdKrL2brmhsvi/view?usp=drive
 
 ![8](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/db2d65f1-2233-4709-bac6-6407e5a52eee)
 https://drive.google.com/file/d/1fsB76JGAQz2QJ551aGj3O9OhLXT0w0Nw/view?usp=drive_link
+												
+B. Codes of the GUI.													
+												
+		I. Abstract of the Project												
+		II. Introduction of the Project												
+		III. Degrees of Freedom of (assigned mechanical manipulator) description and computation.												
+		IV. Kinematic Diagram and D-H Frame assignment of (assigned mechanical manipulator) description and computation.												
+		V. D-H Parametric Table of (assigned mechanical manipulator) description and computation.												
+		VI. HTM of (assigned mechanical manipulator) description and computation.												
+		VII. Inverse Kinematics of (assigned mechanical manipulator) description and computation.												
+		VIII. Forward and Inverse Kinematics GUI calculator of (assigned mechanical manipulator) description and computation.												
+		IX. References												
+	D. Written computations of the portfolio on long bond paper. 													
+![image](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/a132953b-4ef8-45a5-98cc-9dda4d246888)
