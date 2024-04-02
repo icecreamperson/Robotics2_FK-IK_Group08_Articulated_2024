@@ -33,7 +33,10 @@
 ## Link for Task 5
 ### : https://drive.google.com/file/d/1fsB76JGAQz2QJ551aGj3O9OhLXT0w0Nw/view?usp=drive_link
 												
-# CODES OF THE GUI												
+# CODES OF THE GUI
+
+
+
 												
 ## I. ABSTRACT OF THE PROJECT
 ![9](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/91171d92-ecea-4506-a5f4-b947260d5e35)
