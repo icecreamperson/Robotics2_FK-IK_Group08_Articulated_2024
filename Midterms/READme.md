@@ -49,7 +49,11 @@
 ![2](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/742eaef0-7ddd-4e0e-bf1e-e84ba9866207)
 ![3](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/36ee02af-68a7-44b4-bdaa-92a644d69edd)
 
-## IV. KINEMATIC AND D-H FRAME ASSIGNMENT OF ARTICULATED MANIPULATOR DESCRIPTION AND COMPUTATION											
+## IV. KINEMATIC AND D-H FRAME ASSIGNMENT OF ARTICULATED MANIPULATOR DESCRIPTION AND COMPUTATION
+![4](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/371ebb74-ebba-41c1-8181-64a132a2b19a)
+![5](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/d550dcd1-4a99-4796-bd1d-44eba5d50100)
+![6](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/d18f628d-06e6-4cf8-937a-243339590d05)
+
 ## V. D-H PARAMETRIC TABLE OF ARTICULATED MANIPULATOR DESCRIPTION AND COMPUTATION
 
 ## VI. HOMOGENEOUS TRANSFORMATION MATRIX (HTM) OF ARTICULATED MANPULATOR DESCRIPTION AND COMPUTATION 												
