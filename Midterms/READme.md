@@ -70,5 +70,6 @@
 
 ## IX. REFERENCES												
 ![12](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/9fa1e425-b89d-46b8-bfab-116a9f5da215)
+https://images.app.goo.gl/5dayrQQEUJ8dkd6m6
 
 # WRITTEN COMPUTATIONS
