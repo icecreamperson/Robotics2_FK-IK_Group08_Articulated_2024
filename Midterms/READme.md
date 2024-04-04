@@ -29,7 +29,6 @@
 ![7](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/18cb0a23-d80e-436c-9926-0f846209fe27)
 ## Link for Task 4 
 ### : https://drive.google.com/file/d/1GVMg8_DskSPzaUSE8biwdKrL2brmhsvi/view?usp=drive_link
-https://user-images.githubusercontent.com/1702215/158075475-c23004ab-827a-45ad-bdba-aee29ac5b582.mp4
 
 
 ![8](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/db2d65f1-2233-4709-bac6-6407e5a52eee)
