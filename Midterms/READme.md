@@ -314,21 +314,20 @@ gui.mainloop()
 ## III. DEGREES OF FREEDOM OF ARTICULATED MANIPULATOR DESCRIPTION AND COMPUTATION
 ![2](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/742eaef0-7ddd-4e0e-bf1e-e84ba9866207)
 ![3](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/36ee02af-68a7-44b4-bdaa-92a644d69edd)
- 
-<div style="text-align: justify;">
-In robotics, degrees of freedom (DOF) refer to the number of independent ways a robotic manipulator can move its end-effector in space. An articulated manipulator typically consists of multiple joints, each providing rotational or translational motion along specific axes. The total number of DOF in the manipulator depends on the number of joints and their arrangement. For example, a simple robotic arm with three revolute joints (rotational) has three DOF, allowing it to move in three-dimensional space. More complex manipulators may have additional joints, such as prismatic (translational) or spherical joints, adding to their DOF and enabling more versatile motion capabilities. Understanding the DOF of a manipulator is essential for designing control algorithms, planning trajectories, and optimizing its performance for specific tasks. Manipulators with higher DOF can perform a wider range of tasks requiring intricate movements and precise positioning, but they may also present challenges in terms of control complexity and mechanical design. Therefore, engineers must carefully consider the trade-offs between the number of DOF and the manipulator's intended applications to achieve optimal performance and efficiency in robotic systems.
-</div>
+ ![1](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/b611dfde-fdc7-4a3e-bbd8-049e6d636cfd)
 
 ## IV. KINEMATIC AND D-H FRAME ASSIGNMENT OF ARTICULATED MANIPULATOR DESCRIPTION AND COMPUTATION
 ![4](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/371ebb74-ebba-41c1-8181-64a132a2b19a)
 ![5](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/d550dcd1-4a99-4796-bd1d-44eba5d50100)
 ![6](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/d18f628d-06e6-4cf8-937a-243339590d05)
+![2](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/a8454bbf-d675-4ec5-8c13-13815c792751)
+
 
 
 ## V. D-H PARAMETRIC TABLE OF ARTICULATED MANIPULATOR DESCRIPTION AND COMPUTATION
 ![7](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/2a3e76b9-ca02-42e6-be0c-232491c8302d)
 ![8](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/7f28ac75-80f9-4812-875f-d06561b89c07)
-
+![3](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/81e9571f-814b-4b91-a03d-368278af45e7)
 
 ## VI. HOMOGENEOUS TRANSFORMATION MATRIX (HTM) OF ARTICULATED MANPULATOR DESCRIPTION AND COMPUTATION 
 ![9](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/82ca5cc6-e4d2-4eb5-91fd-2690694323eb)
