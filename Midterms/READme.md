@@ -1,4 +1,5 @@
-# # ${ARTICULATED MANIPULATOR MIDTERM PROJECT BY GROUP 8 (MEXE 3201)\ is\ a\ {\color{gray}Big}}\ Title$
+# # ${ARTICULATED/ MANIPULATOR/ MIDTERM / PROJECT / BY / GROUP /8 (MEXE  3201)\ is\ a\ {\color{gray}Big}}\ Title$
+
 ![1](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/f9601f29-9340-4d25-845e-4853257ebfad)
 ![ROBOTICS 2 MIDTERM PROJECT BY GROUP 8](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/06d08943-64bc-4cdc-8f13-886ea41e0ca0)
 
