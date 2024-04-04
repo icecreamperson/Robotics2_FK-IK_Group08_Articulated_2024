@@ -334,7 +334,7 @@ gui.mainloop()
 ![9](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/82ca5cc6-e4d2-4eb5-91fd-2690694323eb)
 
 ## VII. INVERSE KINEMATICS OF ARTICULAATED MANIPULATOR DESCRIPTION AND COMPUTATION 
-![image](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157558526/f6e2b69f-58b5-4198-a38a-3d7a1a85587c)
+![10](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157558526/f6e2b69f-58b5-4198-a38a-3d7a1a85587c)
 ![10](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/29c36577-85c2-4ac9-b868-175aadc22f8a)
 
 ## VIII. FORWARD AND INVERSE KINEMATICS GUI CALCULATOR OF ARTICULATED MANIPULATOR DESCRIPTION AND COMPUTATION 
