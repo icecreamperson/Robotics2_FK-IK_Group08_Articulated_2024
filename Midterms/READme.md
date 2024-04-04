@@ -29,6 +29,7 @@
 ![7](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/18cb0a23-d80e-436c-9926-0f846209fe27)
 ## Link for Task 4 
 ### : https://drive.google.com/file/d/1GVMg8_DskSPzaUSE8biwdKrL2brmhsvi/view?usp=drive_link
+https://user-images.githubusercontent.com/1702215/158075475-c23004ab-827a-45ad-bdba-aee29ac5b582.mp4
 
 
 ![8](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/db2d65f1-2233-4709-bac6-6407e5a52eee)
@@ -314,7 +315,6 @@ gui.mainloop()
 ![3](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/36ee02af-68a7-44b4-bdaa-92a644d69edd)
 In robotics, degrees of freedom (DOF) refer to the number of independent ways a robotic manipulator can move its end-effector in space. 
 
-An ## articulated manipulator typically consists of multiple joints, each providing rotational or translational motion along specific axes. The total number of DOF in the manipulator depends on the number of joints and their arrangement. For example, a simple robotic arm with three revolute joints (rotational) has three DOF, allowing it to move in three-dimensional space. More complex manipulators may have additional joints, such as prismatic (translational) or spherical joints, adding to their DOF and enabling more versatile motion capabilities. Understanding the DOF of a manipulator is essential for designing control algorithms, planning trajectories, and optimizing its performance for specific tasks. Manipulators with higher DOF can perform a wider range of tasks requiring intricate movements and precise positioning, but they may also present challenges in terms of control complexity and mechanical design. Therefore, engineers must carefully consider the trade-offs between the number of DOF and the manipulator's intended applications to achieve optimal performance and efficiency in robotic systems.
 
 ## IV. KINEMATIC AND D-H FRAME ASSIGNMENT OF ARTICULATED MANIPULATOR DESCRIPTION AND COMPUTATION
 ![4](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/371ebb74-ebba-41c1-8181-64a132a2b19a)
