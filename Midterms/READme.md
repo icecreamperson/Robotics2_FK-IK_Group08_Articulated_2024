@@ -348,3 +348,9 @@ gui.mainloop()
 https://images.app.goo.gl/5dayrQQEUJ8dkd6m6
 
 # WRITTEN COMPUTATIONS
+
+![431955874_311135385069916_189506793963735804_n](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157708843/6fd234ce-42cc-4fbf-8490-9f0f2c9a5d7f)
+
+
+
+
