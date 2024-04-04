@@ -304,15 +304,16 @@ gui.mainloop()
 ## I. ABSTRACT OF THE PROJECT
 ![9](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/91171d92-ecea-4506-a5f4-b947260d5e35)
 ![ROBOTICS 2 MIDTERM PROJECT BY GROUP 8 (1)](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/08f4696e-ac8b-4a9a-82b8-9e9b600ea1a5)
+
     
 ## II. INTRODUCTION OF THE PROJECT	
 ![10](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/35ea723d-ddcb-4a21-abd9-e17e63ef9606)
 ![1](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/1db9851a-6527-4004-b384-c029f8b00342)
 
+
 ## III. DEGREES OF FREEDOM OF ARTICULATED MANIPULATOR DESCRIPTION AND COMPUTATION
 ![2](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/742eaef0-7ddd-4e0e-bf1e-e84ba9866207)
 ![3](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/36ee02af-68a7-44b4-bdaa-92a644d69edd)
-In robotics, degrees of freedom (DOF) refer to the number of independent ways a robotic manipulator can move its end-effector in space. 
 
 
 ## IV. KINEMATIC AND D-H FRAME ASSIGNMENT OF ARTICULATED MANIPULATOR DESCRIPTION AND COMPUTATION
@@ -320,9 +321,11 @@ In robotics, degrees of freedom (DOF) refer to the number of independent ways a 
 ![5](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/d550dcd1-4a99-4796-bd1d-44eba5d50100)
 ![6](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/d18f628d-06e6-4cf8-937a-243339590d05)
 
+
 ## V. D-H PARAMETRIC TABLE OF ARTICULATED MANIPULATOR DESCRIPTION AND COMPUTATION
 ![7](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/2a3e76b9-ca02-42e6-be0c-232491c8302d)
 ![8](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/7f28ac75-80f9-4812-875f-d06561b89c07)
+
 
 ## VI. HOMOGENEOUS TRANSFORMATION MATRIX (HTM) OF ARTICULATED MANPULATOR DESCRIPTION AND COMPUTATION 
 ![9](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/82ca5cc6-e4d2-4eb5-91fd-2690694323eb)
