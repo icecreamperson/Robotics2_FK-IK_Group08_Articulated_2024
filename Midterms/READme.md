@@ -330,6 +330,8 @@ gui.mainloop()
 ![3](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/81e9571f-814b-4b91-a03d-368278af45e7)
 
 ## VI. HOMOGENEOUS TRANSFORMATION MATRIX (HTM) OF ARTICULATED MANPULATOR DESCRIPTION AND COMPUTATION 
+![image](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157558526/b938e44f-d9d5-460c-9cbd-895319c08434)
+
 ![9](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/82ca5cc6-e4d2-4eb5-91fd-2690694323eb)
 
 ## VII. INVERSE KINEMATICS OF ARTICULAATED MANIPULATOR DESCRIPTION AND COMPUTATION 										![10](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/29c36577-85c2-4ac9-b868-175aadc22f8a)
