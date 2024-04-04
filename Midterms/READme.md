@@ -363,3 +363,5 @@ https://images.app.goo.gl/5dayrQQEUJ8dkd6m6
 
 ![431850797_328834029820854_5317256990933375396_n](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157708843/eeb89f9c-a92f-4c7c-b769-8c8b967a8884)
 
+![431764006_1096476241650452_9187984347851031875_n](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157708843/d3b0bac2-88f3-4bcf-89c7-8e045e7cde35)
+
