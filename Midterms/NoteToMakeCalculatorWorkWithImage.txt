@@ -1,0 +1,11 @@
+Note:
+
+Download ArticulatedImage.png
+Put ArticulatedImage.png in Documents
+
+Edit Line 16 in the Calcu.py
+
+from image = PhotoImage(file="C:/Users/Dan/Documents/ArticulatedImage.png")
+to image = PhotoImage(file="C:/Users/username(yourownusernameoflaptoporpc)/Documents/ArticulatedImage.png")
+
+then run the file
