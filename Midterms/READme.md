@@ -5,11 +5,10 @@
 
 
 ![5](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/285f252a-e5fa-41ea-827a-23effbaafe6e)
-
+![ROBOTICS 2 MIDTERM PROJECT BY GROUP 8 (4)](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/ee88b38a-1fd9-41a8-b927-4605469190f7)
 
 
 ![3](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/bee97a23-9b91-4deb-b297-95bde5317030)
-![ROBOTICS 2 MIDTERM PROJECT BY GROUP 8 (4)](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/ee88b38a-1fd9-41a8-b927-4605469190f7)
 
 
 ![4](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/6d558b9f-ee97-4c1d-b199-724d5ef12b76)
