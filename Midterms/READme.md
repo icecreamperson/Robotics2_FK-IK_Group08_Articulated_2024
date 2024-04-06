@@ -343,11 +343,6 @@ gui.mainloop()
 ![ROBOTICS 2 MIDTERM PROJECT BY GROUP 8 (2)](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/b5b7a600-2c23-478d-85eb-aa00fdf7df1d)
 ![6](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/82c190b6-cdbd-4523-aa82-c48ee353402d)
 
-
-## IX. REFERENCES												
-![12](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/9fa1e425-b89d-46b8-bfab-116a9f5da215)
-https://images.app.goo.gl/5dayrQQEUJ8dkd6m6
-
 # WRITTEN COMPUTATIONS
 
 ![431955874_311135385069916_189506793963735804_n](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157708843/6fd234ce-42cc-4fbf-8490-9f0f2c9a5d7f)
@@ -371,3 +366,11 @@ https://images.app.goo.gl/5dayrQQEUJ8dkd6m6
 ![431820687_452620737166863_2560586139871265957_n](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157708843/21512d2a-fa8d-4145-bdad-4658019d808d)
 
 ![431781067_943960330786786_5572433538421729061_n](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157708843/dd1a789f-79ff-4fc0-8cb0-9cc86566a14f)
+
+
+## CONCLUSION
+![ROBOTICS 2 MIDTERM PROJECT BY GROUP 8 (3)](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/7d2b3ee6-0376-48dd-85dc-65336ba8a129)
+
+## IX. REFERENCES												
+![12](https://github.com/icecreamperson/Robotics2_FK-IK_Group08_Articulated_2024/assets/157493649/9fa1e425-b89d-46b8-bfab-116a9f5da215)
+https://images.app.goo.gl/5dayrQQEUJ8dkd6m6
